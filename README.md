@@ -1,42 +1,20 @@
 <!-- panvimdoc-ignore-start -->
 
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+    <img src="https://www.ugent.be/ge/img/revaki/ugentlogo.jpg" width="100" alt="Logo"/><br/>
     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-    Catppuccin for <a href="https://github.com/neovim/neovim">(Neo)</a><a href="https://github.com/vim/vim">vim</a>
+    Ugent for <a href="https://github.com/neovim/neovim">(Neo)</a><a href="https://github.com/vim/vim">vim</a>
     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
-
-<p align="center">
-    <a href="https://github.com/catppuccin/nvim/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/nvim?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/nvim/issues"><img src="https://img.shields.io/github/issues/catppuccin/nvim?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/nvim/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/nvim?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-</p>
-
-<p align="center">
-This port of <a href="https://github.com/catppuccin/">Catppuccin</a> is special because it was the first one and the one that originated the project itself. Given this, it's important to acknowledge that it all didn't come to be what it is now out of nowhere. So, if you are interested in knowing more about the initial stages of the theme, you can find it under the <a href="https://github.com/catppuccin/nvim/tree/v0.1">v0.1</a> tag
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/56817415/213472445-091e54fb-091f-4448-a631-fa6b2ba7d8a5.png"/>
-</p>
 
 # Flavours
 
 <details>
-<summary>Latte</summary>
-<img src="https://user-images.githubusercontent.com/56817415/213473391-603bdc68-68f4-4877-a15a-b469040928b5.png"/>
-</details>
-<details>
-<summary>Frappe</summary>
-<img src="https://user-images.githubusercontent.com/56817415/213473368-16931b70-fd84-4a89-a698-1b1bca1f82de.png"/>
-</details>
-<details>
-<summary>Macchiato</summary>
+<summary>Campus</summary>
 <img src="https://user-images.githubusercontent.com/56817415/213473285-7bd858be-6947-4d9e-8c01-2573cbc7e76c.png"/>
 </details>
 <details>
-<summary>Mocha</summary>
+<summary>After-Dark</summary>
 <img src="https://user-images.githubusercontent.com/56817415/213471997-34837219-88cc-4db2-baca-e25813a89789.png"/>
 </details>
 
@@ -1623,17 +1601,7 @@ Full list of Unsupported terminals can be found here: <https://github.com/termst
 
 ![image](https://user-images.githubusercontent.com/13246770/224011118-dcf0f567-650a-4eb2-8be6-0af5cf435501.png)
 
-# Thanks to
-
-- [Pocco81](https://github.com/Pocco81)
-- [nullchilly](https://github.com/nullchilly)
-
 <!-- panvimdoc-ignore-start -->
 
 &nbsp;
-
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
-<p align="center">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
-<p align="center"><a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a></p>
-
 <!-- panvimdoc-ignore-end -->
